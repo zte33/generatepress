@@ -1,0 +1,15 @@
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+
+# Keep repo-only files out of `git archive` theme zips
+/.gitattributes export-ignore
+/.gitignore     export-ignore
+/README.md      export-ignore
