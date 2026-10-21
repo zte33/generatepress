@@ -21,7 +21,7 @@ git clone https://github.com/zte33/generatepress.git generatepress
 
 The folder must be named `generatepress` so the theme slug matches and child themes (`Template: generatepress`) resolve correctly.
 
-**Zip upload:** download the asset from the [latest release](https://github.com/zte33/generatepress/releases/latest) and upload via **Appearance → Themes → Add New → Upload Theme**.
+**Zip upload:** build a clean zip (below), or download **Source code (zip)** from the [latest release](https://github.com/zte33/generatepress/releases/latest), rename the inner folder to `generatepress`, re-zip, and upload via **Appearance → Themes → Add New → Upload Theme**.
 
 **Build a clean zip from any ref:**
 
